@@ -18,7 +18,7 @@ Hi y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming alo
 - Fiji; I've been interested in this place since I was 10, so it's just a must
 - New Zealand; I hear everything is better down under and that it's really peaceful there
 
-***Hobbies 🏋🏿‍♀️***
+***Hobbies 🏋🏿‍♀️***:
 * Weightlifting, Cooking, Traveling, Blogging, Reading & I absolutely adore journaling
 
 ### Let's *GIT* this show on the road 🚀

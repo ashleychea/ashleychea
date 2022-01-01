@@ -2,7 +2,7 @@
 
 Hi y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to becoming a Data Analyst and Cloud Security Engineer. If I didn't mention before, my name is Ashley and I am from the "oh so sweet and peachy" state of Georgia 🍑. I recently graduated with my Bachelors of Science degree in Computer Science and share an undeniable passion for Cybersecurity and Women's Health (especially BIPOC). I will be using this platform to show case projects I am currently building and/or contributing to in various languages, case studies I have spent time reviewing/analyzing for data purposes and, anything else I feel will better showcase who I am and what I represent. Welcome again and I hope you all enjoy this journey alongside me.
 
-***Tools 🔗***: Python, SQL, PowerBI, Tablaeu, Microsoft Excel, Google Spreadsheets, JavaScript, HTML/CSS
+***Tools 🔗***: Python, SQL, PowerBI, Tablaeu, Microsoft Excel, Google Spreadsheets, Java
 
 ***Certifications 🔖***: Certified Scrum Master, Certified Scrum Product Owner, Microsoft Data Analyst, Microsoft AI Fundamentals, Microsoft Data Fundamentals, AWS Solutions Architect, GCP Associate Cloud Engineer
 

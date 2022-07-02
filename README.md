@@ -12,8 +12,8 @@ Hi y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming alo
 ***Top 5 Travel Destinations ✈️***:
 - Israel; I've always dreamed about getting baptized in the Jordan River
 - Japan; They're literally so ahead in technology I have to go and see it for myself 
-- Sri Lanka; This country isn't spoken about a lot and that's the beauty in it, imo (in my opinion).
-- Fiji; I've been interested in this place since I was 10, so it's just a must
+- Seychelles; This country isn't spoken about a lot and that's the beauty in it, imo (in my opinion).
+- Papua New Guinea; I've been interested in this place since I was 10, so it's just a must
 - New Zealand; I hear everything is better down under and that it's really peaceful there
 
 ***Hobbies 🏋🏿‍♀️***:

@@ -12,7 +12,7 @@ I will be using this platform to show case projects I am currently building and/
 - Web3, Blockchain, & DevOps + SecOps
 
 ***Top 5 Travel Destinations ✈️***:
-- Israel; I've always dreamed about getting baptized in the Jordan River
+- Ghana; This is my home country and I cannot wait to go back.
 - Japan; They're literally so ahead in technology I have to go and see it for myself 
 - Seychelles; This country isn't spoken about a lot and that's the beauty in it
 - Papua New Guinea; I've been interested in this place since I was 10, so it's just a must

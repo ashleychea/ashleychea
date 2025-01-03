@@ -1,8 +1,8 @@
 # Who's Ashley and What's She Creating? 👩🏿‍💻
 
-Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an AI Security Engineer with a focus in Identity and Access Management (IAM) intergration; coming from a Software Engineering background & currently working in Data Privacy. If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑 by way of Accra, Ghana 🇬🇭. I hold a Bachelor of Science degree in Computer Science and Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, Cloud, IAM and Education. 
+Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an GRC Architect with a focus in Artificial Intelligence intergration. If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑 by way of Accra, Ghana 🇬🇭. I hold a Bachelor of Science degree in Computer Science and Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, and Education. 
 
-I will be using this platform to show case projects I am currently building and/or contributing to in various languages (Python mostly; with occasionaly contributions from Java & SQL), case studies I have spent time reviewing/analyzing for data purposes, and anything else I feel will better showcase who I am and what I represent. Welcome again and I hope you all enjoy this journey alongside me.
+I will be using this platform to show case projects I am currently building and/or contributing to in various languages, case studies I have spent time reviewing/analyzing for data purposes, and anything else I feel will better showcase who I am and what I represent. Welcome again and I hope you all enjoy this journey alongside me.
 
 ***Things I'm currently learning***:
 - Spanish & Twi (to become a fluent speaker, reader & writer)
@@ -21,5 +21,5 @@ I will be using this platform to show case projects I am currently building and/
 
 ### Let's *GIT* this show on the road 🚀
 
-[![Skills 🔗:](https://skillicons.dev/icons?i=python,postgres,js,bash,powershell,aws,azure,kali,ansible,kubernetes,java,postman,react,pytorch,tensorflow,terraform,selenium,ts&perline=6)](https://skillicons.dev)
+[![Skills 🔗:](https://skillicons.dev/icons?i=py,postgres,js,powershell,aws,kubernetes,java,react,pytorch,tensorflow,terraform,ai&perline=6)](https://skillicons.dev)
 

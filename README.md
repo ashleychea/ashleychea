@@ -1,6 +1,6 @@
 # Who's Ashley and What's She Creating? 👩🏿‍💻
 
-Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an AI Security Engineer with a focus in Data Privacy and Protection. If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑. I hold a Bachelor of Science degree in Computer Science, Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, and Education. 
+Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an AI Security Engineer with a focus in Data Privacy and Identity and Access Management (IAM). If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑. I hold a Bachelor of Science degree in Computer Science, Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, Healthcare and Education. 
 
 I will be using this platform to show case projects I am currently building and/or contributing to in various languages, case studies I have spent time reviewing/analyzing for data purposes, and anything else I feel will better showcase who I am and what I represent. Welcome again and I hope you all enjoy this journey alongside me.
 

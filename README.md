@@ -1,6 +1,6 @@
 # Who's Ashley and What's She Creating? 👩🏿‍💻
 
-Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an AI Engineer with a focus in Cloud Security. If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑. I hold a Bachelor of Science degree in Computer Science, Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, Healthcare and Education. 
+Hey y'all 👋🏿, I just wanted to start off by saying THANK YOU for coming along this journey with me as I document my journey to become an AI Security Engineer with a focus in Data Privacy & GRC. If I didn't mention before, my name is Ashley (Ash) and I am from the "oh so sweet and peachy" state of Georgia 🍑. I hold a Bachelor of Science degree in Computer Science, Master of Science in Cybersecurity & I share an undeniable passion for Cybersecurity, AI/ML, Privacy and Education. 
 
 I will be using this platform to show case projects I am currently building and/or contributing to in various languages, case studies I have spent time reviewing/analyzing for data purposes, and anything else I feel will better showcase who I am and what I represent. Welcome again and I hope you all enjoy this journey alongside me.
 
@@ -11,9 +11,9 @@ I will be using this platform to show case projects I am currently building and/
 
 ***Top 5 Travel Destinations ✈️***:
 - Côte d'Ivoire (Ivory Coast); A lot of my family is from here so seeing them and experiencing the culture is top on my list
-- Japan; They're literally so ahead in technology I have to go and see it for myself 
+- Japan; They're literally so ahead in technology I have to go and see it for myself & their fashion is on another level
 - Seychelles; This country isn't spoken about a lot and that's the beauty in it
-- Papua New Guinea; I've been interested in this place since I was 10, so it's just a must
+- Papua New Guinea; I've been interested in this place since I was 10, so it's an absolute must
 - Greece; The architecture and scenery are just breathtaking, I'd love to experience this in real life
 
 ***Hobbies 🏋🏿‍♀️***:
